@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=https://github.com/iam-veeramalla/shell-scripting-projects/blob/main/aws-event-triggering/s3-lambda-function/requirements.txt
+boto3==1.17.95
